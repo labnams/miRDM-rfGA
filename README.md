@@ -6,8 +6,8 @@ Genetic algorithm code used in this article:Genetic Algorithm-Based Identificati
 - /toydata/toydata.csv : toyset data to execute genetic algorithm code.
 
 # Usage
-- run miRDM-rfGA_toy_example.ipynb on jupyter notebook enviroment.
-- make sure the path of toydata.csv before you run this code.
+- Run miRDM-rfGA_toy_example.ipynb on jupyter notebook enviroment.
+- Make sure the path of toydata.csv before you run this code.
 
 # Contact
 - Mr. Aron Park (parkar13@gmail.com)
