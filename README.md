@@ -3,7 +3,7 @@ Genetic algorithm code used in this article:Genetic Algorithm-Based Identificati
 
 # Code description
 - GA_IRFL_k_10_toydata_github.py : Python code for feature selection to build optimal IRFL classification model. This code is run with a toy example dataset.
-- toydata.csv : toyset data to execute genetic algorithm code.
+- /toydata/toydata.csv : toyset data to execute genetic algorithm code.
 
 # Usage
 - Run this python code with the command below:
