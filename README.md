@@ -2,7 +2,7 @@
 Genetic algorithm code used in this article:Genetic Algorithm-Based Identification of a MiRNA Set for Detecting Type 2 Diabetes.
 
 # Code description
-- miRDM-rfGA_toy_example.ipynb : Python code for feature selection to build optimal IRFL classification model. This code is run with a toy example dataset.
+- miRDM-rfGA_toy_example.ipynb : Python code for feature selection to build optimal Type 2 diabetes classification model. This code is run with a toy example dataset.
 - /toydata/toydata.csv : toyset data to execute genetic algorithm code.
 
 # Usage
